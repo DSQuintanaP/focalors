@@ -1,0 +1,7 @@
+C:\Users\Janus\source\repos\Salva_Patria\bin\Debug\Salva_Patria.exe.config
+C:\Users\Janus\source\repos\Salva_Patria\bin\Debug\Salva_Patria.exe
+C:\Users\Janus\source\repos\Salva_Patria\bin\Debug\Salva_Patria.pdb
+C:\Users\Janus\source\repos\Salva_Patria\obj\Debug\Salva_Patria.csproj.AssemblyReference.cache
+C:\Users\Janus\source\repos\Salva_Patria\obj\Debug\Salva_Patria.csproj.CoreCompileInputs.cache
+C:\Users\Janus\source\repos\Salva_Patria\obj\Debug\Salva_Patria.exe
+C:\Users\Janus\source\repos\Salva_Patria\obj\Debug\Salva_Patria.pdb
